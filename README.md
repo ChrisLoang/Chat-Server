@@ -2,10 +2,10 @@
 
 # Maven
 
-#Author
+# Author
 Chris Loang
 
-#Project Description
+# Project Description
 
 Designed a chat sever to chat with multiple clients, and each clients having a unique IDs
 
